@@ -1,0 +1,5 @@
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools.Api\bin\Debug\PartsTrader.ClientTools.Api.dll
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools.Api\bin\Debug\PartsTrader.ClientTools.Api.pdb
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools.Api\obj\Debug\PartsTrader.ClientTools.Api.csproj.CoreCompileInputs.cache
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools.Api\obj\Debug\PartsTrader.ClientTools.Api.dll
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools.Api\obj\Debug\PartsTrader.ClientTools.Api.pdb

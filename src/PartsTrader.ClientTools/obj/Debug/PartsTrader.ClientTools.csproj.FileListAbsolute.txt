@@ -1,0 +1,13 @@
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\bin\Debug\Exclusions.json
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\bin\Debug\PartsTrader.ClientTools.dll
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\bin\Debug\PartsTrader.ClientTools.pdb
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\bin\Debug\Newtonsoft.Json.dll
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\bin\Debug\PartsTrader.ClientTools.Api.dll
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\bin\Debug\PartsTrader.ClientTools.Api.pdb
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\bin\Debug\Newtonsoft.Json.pdb
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\bin\Debug\Newtonsoft.Json.xml
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\obj\Debug\PartsTrader.ClientTools.csprojAssemblyReference.cache
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\obj\Debug\PartsTrader.ClientTools.csproj.CoreCompileInputs.cache
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\obj\Debug\PartsTrader.ClientTools.csproj.CopyComplete
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\obj\Debug\PartsTrader.ClientTools.dll
+C:\Exercicios\PartsTrader\src\PartsTrader.ClientTools\obj\Debug\PartsTrader.ClientTools.pdb
